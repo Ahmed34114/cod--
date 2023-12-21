@@ -1,0 +1,10 @@
+x = int(input(inter the firs numper ))
+y = int(input( inter the second numper ))
+
+for i in range(1, y + 1)
+    result = x  i
+    print(f{x}  {i} = {result})
+    if i = 20
+        print(i)
+        
+        
